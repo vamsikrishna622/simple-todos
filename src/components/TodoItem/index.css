@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.todo-item-container {
+  display: flex;
+  width: 750px;
+  justify-content: space-between;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #000000;
+  font-family: 600;
+  text-align: left;
+}
+
+.dlt-button {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #ff0b37;
+  font-family: 400;
+  background-color: transparent;
+  border: solid 2px #ff0b37;
+  border-radius: 6px;
+  height: 42px;
+  width: 100px;
+  align-self: center;
+}
